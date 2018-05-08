@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Venezuela se Expresa</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="crop_image_menu_rotate_right">Rotar Derecha</string>
+    <string name="crop_image_menu_rotate_left">Rotar Izquierda</string>
+    <string name="crop_image_menu_crop">Cortar</string>
+
+    <string name="action_salir_usuario">Cerrar Sesion</string>
+    <string name="action_configuracion">Configuracion</string>
+    <string name="action_add">Publicar</string>
+    <string name="title_activity_publicador">Publicar</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
